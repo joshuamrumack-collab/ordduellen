@@ -1,0 +1,18 @@
+name: Uppdatera ordlistor
+on:
+  push:
+    paths: ['listor/**.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/build_listor.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add listor/index.json
+          git diff --cached --quiet || (git commit -m "Uppdatera listor/index.json" && git push)

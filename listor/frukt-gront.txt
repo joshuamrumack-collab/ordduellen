@@ -1,0 +1,16 @@
+# Frukt och grönsaker
+päron = pear
+apelsin = orange
+druva = grape
+citron = lemon
+körsbär = cherry
+hallon = raspberry
+blåbär = blueberry
+vattenmelon = watermelon
+gurka = cucumber
+tomat = tomato
+lök = onion
+sallad = lettuce
+ärtor = peas
+majs = corn
+svamp = mushroom

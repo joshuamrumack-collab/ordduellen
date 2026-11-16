@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fritid",
+    "namn": "Fritid och sport",
+    "antal": 15
+  },
+  {
+    "id": "frukt-gront",
+    "namn": "Frukt och grönsaker",
+    "antal": 15
+  },
+  {
+    "id": "klader",
+    "namn": "Kläder",
+    "antal": 15
+  },
+  {
+    "id": "yrken",
+    "namn": "Yrken",
+    "antal": 15
+  }
+]

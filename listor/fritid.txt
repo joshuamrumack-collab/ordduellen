@@ -1,0 +1,16 @@
+# Fritid och sport
+fotboll = football/soccer
+simning = swimming
+cykla = cycle/ride a bike
+fiska = fish
+måla = paint
+rita = draw
+baka = bake
+spela gitarr = play the guitar
+läsa böcker = read books
+titta på film = watch films/watch movies
+gå på bio = go to the cinema/go to the movies
+träffa vänner = meet friends
+åka skidor = ski/go skiing
+skridskor = skates
+lag = team

@@ -1,0 +1,16 @@
+# Yrken
+läkare = doctor
+sjuksköterska = nurse
+polis = police officer/police
+brandman = firefighter
+kock = chef/cook
+bonde = farmer
+pilot = pilot
+tandläkare = dentist
+frisör = hairdresser
+snickare = carpenter
+författare = writer/author
+konstnär = artist
+sångare = singer
+journalist = journalist
+programmerare = programmer

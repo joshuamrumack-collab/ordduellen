@@ -1,0 +1,16 @@
+# Kläder
+tröja = sweater/jumper
+byxor = trousers/pants
+jacka = jacket
+skjorta = shirt
+kjol = skirt
+klänning = dress
+strumpor = socks
+skor = shoes
+mössa = hat/beanie
+vantar = mittens/gloves
+halsduk = scarf
+shorts = shorts
+stövlar = boots
+keps = cap
+bälte = belt
